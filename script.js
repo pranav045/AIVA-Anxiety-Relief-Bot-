@@ -1,10 +1,6 @@
 // Use browser-compatible axios (loaded via CDN)
 const axios = window.axios;
 
-// API Configuration
-const API_KEY = 'olSqnd2Cb2pO9x1BcSJXYfXtUephHU3E';
-const EXTERNAL_USER_ID = 'default_user';
-
 // DOM Elements
 const chatMessages = document.getElementById('chat-messages');
 const userInput = document.getElementById('user-input');
