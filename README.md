@@ -75,7 +75,7 @@ PDF Generation
 • Solution: Used ReportLab for structured and 
 styled reports 
 
-12.Future Enhancements 
+12.Future Enhancements <br>
 *Key Future Developments for Anxiety Relief 
 Chatbots 
 Personalized Therapeutic Approaches 
