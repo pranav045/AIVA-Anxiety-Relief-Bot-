@@ -90,7 +90,7 @@ anxiety management techniques
 • User-specific escalation paths when anxiety 
 intensifies 
 
-13.Advanced Emotion Detection 
+->Advanced Emotion Detection 
 • Enhanced natural language processing for 
 emotional nuance 
 • Recognition of subtle linguistic markers of 
@@ -102,7 +102,7 @@ progression during conversations
 • Early identification of emerging anxiety 
 episodes 
 
-14.Biometric Data Integration 
+->Biometric Data Integration 
 • Connection with smartwatches and fitness 
 trackers for physiological monitoring 
 • Detection of anxiety symptoms through 
